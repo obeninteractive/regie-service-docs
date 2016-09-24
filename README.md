@@ -8,5 +8,4 @@ Feel free to contact us at support@obeninteractive.com
 * **Site Production** : [Oben Interactive](http://www.obeninteractive.com)
 * **Site Powered by** : [Skoofi](http://www.skoofi.com)
 * **Lead Project & Dev** : [Samba Cissé](https://twitter.com/_sambacisse)
-* **Customer** : [Régie Services Nord Littoral](https://www.regie-service.com/)
 
