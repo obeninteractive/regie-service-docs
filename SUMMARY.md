@@ -1,6 +1,6 @@
 # Summary
 
 * Welcome
-* Style Guide
+* [Style Guide](style_guide.md)
 * SEO
 
