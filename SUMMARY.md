@@ -9,7 +9,7 @@
    * [Icons](icons.md)
    * [Visual Language](visual_language.md)
 * [Site Optimisation - SEO](site_optimisation_seo.md)
-   * Common SEO Issues
+   * [Common SEO Issues](common_seo_issues.md)
    * [Speed Optimizations](speed_optimizations.md)
    * [Server and Security](server_and_security.md)
    * [Mobile Usability](mobile_usability.md)
