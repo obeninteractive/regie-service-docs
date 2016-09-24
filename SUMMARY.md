@@ -13,4 +13,5 @@
    * Speed Optimizations
    * Server and Security
    * Mobile Usability
+   * Advanced SEO
 
