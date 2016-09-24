@@ -5,5 +5,6 @@
    * Get Started
    * Logo
    * Colors
+   * Fonts
 * [Site Optimisation - SEO](site_optimisation_-_seo.md)
 
