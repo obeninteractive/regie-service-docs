@@ -2,4 +2,5 @@
 
 * Welcome
 * SEO
+* Style Guide
 
