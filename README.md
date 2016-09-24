@@ -13,6 +13,6 @@ Feel free to contact us at support@obeninteractive.com
 * **Powered by** : [Skoofi](http://www.skoofi.com)
 
 ### Sources :
-* Website : [www.regie-service.com](https://www.regie-service.com)
-* Support : [gitbook / obeninteractive / regie-service](https://obeninteractive.gitbooks.io/regie-services-nord-littoral/content)
+* **Website** : [www.regie-service.com](https://www.regie-service.com)
+* **Support** : [gitbook / obeninteractive / regie-service](https://obeninteractive.gitbooks.io/regie-services-nord-littoral/content)
 
