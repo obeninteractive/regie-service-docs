@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Web Style Guide](style_guide.md)
    * Get Started
-   * Logo
+   * [Logo](logo.md)
    * [Colors](colors.md)
    * [Typography](typography.md)
    * [Icons](icons.md)
