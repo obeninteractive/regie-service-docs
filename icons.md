@@ -1,2 +1,2 @@
 # Icons
-![](regie-service-style-guide-icons-selected.png)
+![](regie-service-style-guide-icons.png)
