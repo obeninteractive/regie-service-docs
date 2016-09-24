@@ -1,6 +1,6 @@
 # Summary
 
 * Welcome
-* SEO
 * Style Guide
+* SEO
 
