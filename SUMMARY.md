@@ -7,6 +7,6 @@
    * Colors
    * Typography
    * Icons
-   * Visual Language
+   * [Visual Language](visual_language.md)
 * [Site Optimisation - SEO](site_optimisation_-_seo.md)
 
