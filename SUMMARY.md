@@ -10,4 +10,5 @@
    * [Visual Language](visual_language.md)
 * [Site Optimisation - SEO](site_optimisation_seo.md)
    * Common SEO Issues
+   * Speed Optimizations
 
