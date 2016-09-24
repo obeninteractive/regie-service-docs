@@ -12,6 +12,6 @@
    * Common SEO Issues
    * Speed Optimizations
    * Server and Security
-   * Mobile Usability
+   * [Mobile Usability](mobile_usability.md)
    * [Advanced SEO](advanced_seo.md)
 
