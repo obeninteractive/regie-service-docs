@@ -12,4 +12,5 @@
    * Common SEO Issues
    * Speed Optimizations
    * Server and Security
+   * Mobile Usability
 
