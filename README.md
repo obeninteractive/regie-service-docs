@@ -6,7 +6,7 @@ Feel free to contact us at support@obeninteractive.com
 ### General Informations :
 * **Site Designed** : [Oben Interactive](http://obeninteractive.com)
 * **Site Production** : [Oben Interactive](http://www.obeninteractive.com)
-* **Site Host** : [Skoofi](http://www.skoofi.com)
+* **Site Powered by** : [Skoofi](http://www.skoofi.com)
 * **Lead Project & Dev** : [Samba Cissé]()
 * **Customer** : [Régie Services Nord Littoral]()
 
