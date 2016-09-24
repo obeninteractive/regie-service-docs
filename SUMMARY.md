@@ -4,7 +4,7 @@
 * [Web Style Guide](style_guide.md)
    * Get Started
    * Logo
-   * Colors
+   * [Colors](colors.md)
    * [Typography](typography.md)
    * [Icons](icons.md)
    * [Visual Language](visual_language.md)
