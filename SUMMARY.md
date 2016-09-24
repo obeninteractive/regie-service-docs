@@ -11,4 +11,5 @@
 * [Site Optimisation - SEO](site_optimisation_seo.md)
    * Common SEO Issues
    * Speed Optimizations
+   * Server and Security
 
