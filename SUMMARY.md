@@ -8,7 +8,7 @@
    * [Typography](typography.md)
    * [Icons](icons.md)
    * [Visual Language](visual_language.md)
-* [Site Optimisation - SEO](site_optimisation_seo.md)
+* [SEO Validation](site_optimisation_seo.md)
    * [Common SEO Issues](common_seo_issues.md)
    * [Speed Optimizations](speed_optimizations.md)
    * [Server and Security](server_and_security.md)
