@@ -1,3 +1,4 @@
 # Welcome
-Here, you will find all summary document & a user guide related to the website :
-[www.regie-service.com](http://www.regie-service.com)
+Here, you will find all summary documents & a user guide related to the website.
+Feel free to contact us at support@obeninteractive.com
+
