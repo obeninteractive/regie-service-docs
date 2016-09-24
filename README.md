@@ -5,7 +5,7 @@ Feel free to contact us at support@obeninteractive.com
 
 ### General Informations :
 * **Lead Project & Dev** : [Samba Cissé](https://twitter.com/_sambacisse)
-* **Site Designed** : [Oben Interactive](http://obeninteractive.com)
+* **Site Design** : [Oben Interactive](http://obeninteractive.com)
 * **Site Production** : [Oben Interactive](http://www.obeninteractive.com)
-* **Site Powered by** : [Skoofi](http://www.skoofi.com)
+* **Powered by** : [Skoofi](http://www.skoofi.com)
 
