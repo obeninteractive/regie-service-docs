@@ -1,4 +1,5 @@
 # SEO Audit
+![](oben-interactive-fr-avatar-yeah-min.png)
 1. [Common SEO Issues](common_seo_issues.md)
 2. [Speed Optimizations](speed_optimizations.md)
 3. [Server and Security](server_and_security.md)
