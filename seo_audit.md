@@ -1,2 +1,2 @@
 # SEO Audit
-1. 
+1. Common SEO Issues
