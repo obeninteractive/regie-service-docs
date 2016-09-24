@@ -13,5 +13,5 @@
    * Speed Optimizations
    * Server and Security
    * Mobile Usability
-   * Advanced SEO
+   * [Advanced SEO](advanced_seo.md)
 
