@@ -1,4 +1,4 @@
-# Style Guide 
+# Style Guide
 ![](oben-interactive-fr-avatar-yeah-min.png)
 1. [Get Started](get-started.md)
 2. [Logo](logo.md)
