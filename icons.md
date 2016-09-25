@@ -1,2 +1,2 @@
 # Icons
-![](regie-service-icons.png)
+![](regie-service-icons-latest.png)
