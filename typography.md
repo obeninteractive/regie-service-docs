@@ -1,3 +1,3 @@
 # Typography
 
-![](regie-service-style-guide-typo.png)
+![](regie-service-typo.png)
