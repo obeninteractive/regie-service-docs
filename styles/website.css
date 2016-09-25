@@ -2,3 +2,8 @@
 .markdown-section h1 {
     color: #888 !important;
 }
+.book-summary {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #ffffff !important;
+    background: #00a0e2;
+}
