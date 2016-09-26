@@ -17,4 +17,5 @@
 * [Content Management](content_management.md)
    * Edit Text
    * Page List
+   * Browser Support
 
