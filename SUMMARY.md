@@ -16,6 +16,6 @@
    * [Advanced SEO](advanced_seo.md)
 * [Content Management](content_management.md)
    * Edit Text
-   * Page List
+   * [Page List](page_list.md)
    * [Browser Support](browser_support.md)
 
