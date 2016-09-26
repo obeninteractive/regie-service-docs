@@ -15,4 +15,5 @@
    * [Mobile Usability](mobile_usability.md)
    * [Advanced SEO](advanced_seo.md)
 * [Content Management](content_management.md)
+   * Edit Text
 
