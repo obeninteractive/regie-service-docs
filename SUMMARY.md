@@ -15,7 +15,7 @@
    * [Mobile Usability](mobile_usability.md)
    * [Advanced SEO](advanced_seo.md)
 * [Content Management](content_management.md)
-   * Edit Text
+   * [Edit Text](edit_text.md)
    * [Page List](page_list.md)
    * [Browser Support](browser_support.md)
 
