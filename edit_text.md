@@ -1,7 +1,7 @@
 # How to edit your text ?
 
 ### Editable Content
-With our system you can you create and edit dynamic content in your browser.
+You can you create and edit dynamic content directly in your browser.
 
 ### Modify Content with #edit
 1. Open your page in a browser, add** #edit** to the end of the URL : www.mysite.com/page#edit
