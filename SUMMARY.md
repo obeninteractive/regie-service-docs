@@ -17,5 +17,5 @@
 * [Content Management](content_management.md)
    * [How to edit your text ?](edit_text.md)
    * [Browser Support](browser_support.md)
-   * FAQs
+   * [FAQs](faqs.md)
 
