@@ -13,3 +13,7 @@ For more details, feel free to contact : support@obeninteractive.com
 **Important Note** : 
 
 *At the moment, there is no backup plan in your options. It is important to save a copy of your latest contents by yourself. *
+
+1. [How to edit your text ?](edit_text.md)
+2. [Browser Support](browser_support.md)
+3. [FAQs](faqs.md)
