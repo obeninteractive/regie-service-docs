@@ -3,7 +3,8 @@
 ![](oben-interactive-fr-avatar-yeah-min.png)
 
 
-You can use freely a light front-end text editor to update your website, in the limit of 69K API request per month.
+
+Sometimes you need to update your text content. You can use our free  and super simple front-end text editor to update your website, in the limit of 69K API requests per month.
 
 If the traffic goes beyond, you should upgrade your account.
 
