@@ -4,7 +4,7 @@
 
 
 
-Sometimes you need to update your text content. You can use our free  and super simple front-end text editor to update your website, in the limit of 69K API requests per month.
+Sometimes you need to update your text content. You can use the free  and super simple front-end text editor to update your website, in the limit of 80K API requests per month.
 
 If the traffic goes beyond, you should upgrade your account.
 
