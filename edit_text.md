@@ -1,4 +1,4 @@
-# Edit Text
+# How to edit your text ?
 
 ### Editable Content
 With our system you can you create and edit dynamic content in your browser.
