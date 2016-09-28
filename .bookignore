@@ -1,2 +1,6 @@
 # Ignore the Visual Language
 # visual_language.md
+# Insert youtube video
+{
+    plugins: ["youtube"]
+}
