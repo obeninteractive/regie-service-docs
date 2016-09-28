@@ -9,6 +9,8 @@ The free plan comes with 3 free email pro accounts of 5GB storage each.
 
 When you are in need of more than 3 users or more than 5GB/user, you'll have to upgrade to a paid plan.
 
+For more details, feel free to contact us : support@
+
 1. [Login](mail_login.md)
 2. [User Guide](user_guide.md)
 3. [FAQs](email_faqs.md)
