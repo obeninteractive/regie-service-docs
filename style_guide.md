@@ -7,5 +7,5 @@
 5. [Icons](icons.md)
 6. [Visual Language](visual_language.md) 
 
-
+For more details, feel free to contact us : [support@obeninteractive.com](support@obeninteractive.com)
 
