@@ -10,7 +10,7 @@ You will never be charged overage or have your content blocked.
 
 If you experience a traffic spike and go over your limit we will notify you, and if you consistently go over for more 2 months you will need to upgrade your plan. 
 
-Our Premium Editorial Management plan starts at 105,84€ per month. It includes these features :
+Our Premium Editorial Management plan starts at 98€ per month. It includes these features :
 
 * CMS Editor "Professional" Plan (500k API requests per month)
 * Site Maintenance
