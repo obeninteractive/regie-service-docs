@@ -11,3 +11,5 @@
 */
 
 nav a.custom-link, .gitbook-link {display: none !important}
+
+nav li.chapter {font-weight: bold !important}
