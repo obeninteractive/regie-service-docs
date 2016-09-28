@@ -18,9 +18,8 @@
    * [How to edit your text ?](edit_text.md)
    * [Browser Support](browser_support.md)
    * [FAQs](faqs.md)
-* [FAQs](email_faqs.md)
 * [Email Accounts](email_pro.md)
    * [Login](mail_login.md)
-   * [User Guide](user_guide.md)
    * [FAQs](email_faqs.md)
+   * [User Guide](user_guide.md)
 
