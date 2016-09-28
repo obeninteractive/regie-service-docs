@@ -9,8 +9,6 @@
     background: #00a0e2;
 }
 */
-nav {border-top: none !important;}
-
-nav a.custom-link, .gitbook-link {display: none !important}
+nav a.custom-link, nav ul.summary li.divider, .gitbook-link {display: none !important}
 
 nav li.chapter a {font-weight: bold;}
