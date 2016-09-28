@@ -18,4 +18,5 @@
    * [How to edit your text ?](edit_text.md)
    * [Browser Support](browser_support.md)
    * [FAQs](faqs.md)
+* Email Pro
 
