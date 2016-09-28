@@ -18,7 +18,7 @@ Our Premium Editorial Management plan starts at 105,84€ per month. It includes
 
 ### Can I upgrade, downgrade, or cancel any time?
 
-Yes, absolutely. Plans are on a monthly schedule and you can change or cancel instantly.
+Yes, absolutely ! Plans are on a monthly schedule and you can change or cancel instantly.
 
 ### Will the free plan always be free?
 
