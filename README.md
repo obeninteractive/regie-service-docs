@@ -4,8 +4,6 @@
 
 Here, you will find summary documents and a user guide related to the website project.
 
-Feel free to contact us at support@obeninteractive.com
-
 ### General Informations :
 * **Lead Project & Dev** : [Samba Cissé](https://twitter.com/_sambacisse)
 * **Site Design** : [Oben Interactive](http://obeninteractive.com)
@@ -16,3 +14,4 @@ Feel free to contact us at support@obeninteractive.com
 * **Website** : [www.regie-service.com](https://www.regie-service.com)
 * **Support** : [gitbook / obeninteractive / regie-service](https://obeninteractive.gitbooks.io/regie-services-nord-littoral/content)
 
+For more details, feel free to contact us : [support@obeninteractive.com](support@obeninteractive.com)
