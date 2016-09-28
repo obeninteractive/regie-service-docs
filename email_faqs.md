@@ -12,9 +12,9 @@ When you are in need of more than 3 users or more than 5GB/user, you'll have to 
 
 Please note that all user mailboxes will be upgraded to the higher, paid plan. 
 
-* 10 Oben Emails Pro accounts (first 3 users mailboxes included), 5GB storage each at 49€/month
+* 10 Oben Emails Pro accounts (first 3 users mailboxes included), 5GB storage each at 49€ per month
 
-* 10 Oben Emails Pro accounts (first 3 users mailboxes included), 10GB storage at 98€/month
+* 10 Oben Emails Pro accounts (first 3 users mailboxes included), 10GB storage at 98€ per month
 
 For more accounts or more GB storage, please contact us : [support@obeninteractive.com](support@obeninteractive.com)
 
