@@ -19,4 +19,5 @@
    * [Browser Support](browser_support.md)
    * [FAQs](faqs.md)
 * [Email Pro](email_pro.md)
+   * Get Started
 
