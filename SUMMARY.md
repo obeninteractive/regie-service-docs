@@ -20,5 +20,5 @@
    * [FAQs](faqs.md)
 * [Email Pro](email_pro.md)
    * [Connexion](mail_get_started.md)
-   * User Guide
+   * [User Guide](user_guide.md)
 
