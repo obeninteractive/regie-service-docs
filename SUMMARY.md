@@ -19,5 +19,5 @@
    * [Browser Support](browser_support.md)
    * [FAQs](faqs.md)
 * [Email Pro](email_pro.md)
-   * Get Started
+   * [Get Started](mail_get_started.md)
 
