@@ -14,6 +14,3 @@ When you are in need of more than 3 users or more than 5GB/user, you'll have to 
 3. [FAQs](email_faqs.md)
 
 
-<!-- {% youtube %}https://youtu.be/ebGnSv3L06A{% endyoutube %} -->
-
-
