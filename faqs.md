@@ -24,7 +24,6 @@ Yes, absolutely. Plans are on a monthly schedule and you can change or cancel in
 
 Yes ! Free version is enable for website under 80k API request per month. As long as we offer this option, you will never be forced to pay.
 
-
-For more details, feel free to contact us at: support@obeninteractive.com
+For more details, feel free to contact us : [support@obeninteractive.com](support@obeninteractive.com)
 
 
