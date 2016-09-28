@@ -1,7 +1,6 @@
 {
-  "pluginsConfig": {
-    "fontSettings": {
-      "theme": "night"
-    }
-  }
+    "pluginsConfig": {},
+    "plugins": [
+        "youtube"
+    ]
 }
