@@ -1,6 +1,7 @@
 # Summary
 
 * [Welcome](README.md)
+   * Email Pro
 * [Web Style Guide](style_guide.md)
    * [Get Started](get_started.md)
    * [Logo](logo.md)
