@@ -9,3 +9,5 @@
     background: #00a0e2;
 }
 */
+
+nav a.custom-link {display: none !important}
