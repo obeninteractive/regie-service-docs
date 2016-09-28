@@ -6,5 +6,5 @@ You can log into your mail account at this adress :
 
 **Note** : For obvious safety reasons, it's important to change your password when you're logging for the first time.
 
-
+![](zoho-mail-demo-yeah.gif)
 
