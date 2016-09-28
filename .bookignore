@@ -1,7 +1,7 @@
 # Ignore the Visual Language
 # visual_language.md
 # Insert youtube video
-# to insert youtube video use{% youtube %}https://youtu.be/ebGnSv3L06A{% endyoutube %}
+# in your .md file, use{% youtube %}https://youtu.be/ebGnSv3L06A{% endyoutube %}
 {
     plugins: ["youtube"]
 }
