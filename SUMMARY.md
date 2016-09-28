@@ -20,6 +20,6 @@
    * [FAQs](faqs.md)
 * [Email Accounts](email_pro.md)
    * [Login](mail_login.md)
-   * [FAQs](email_faqs.md)
    * [User Guide](user_guide.md)
+   * [FAQs](email_faqs.md)
 
