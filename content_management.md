@@ -8,7 +8,7 @@ Sometimes you need to update your text content. You can use the free  and super 
 
 If the traffic goes beyond, you should upgrade your account.
 
-For more details, feel free to contact : support@obeninteractive.com
+For more details, feel free to contact us : support@obeninteractive.com
 
 **Important Note** : 
 
