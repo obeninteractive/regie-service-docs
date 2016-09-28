@@ -11,6 +11,6 @@
 */
 nav a.custom-link, nav ul.summary li.divider, .gitbook-link {display: none !important}
 
-ul.summary > li.chapter a:first-child {font-weight: bold; text-transform: uppercase;}
+ul.summary > li:first-child {font-weight: bold; text-transform: uppercase;}
 
 nav ul.summary {margin-bottom: 26px !important;}
