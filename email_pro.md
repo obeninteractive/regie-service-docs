@@ -1,4 +1,4 @@
-# Email Pro
+# Email Accounts
 ![](oben-interactive-fr-avatar-yeah-min.png)
 
 Oben Interactive have set up for you 3 email pro accounts based on your domain name and powered by Zoho. 
