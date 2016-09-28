@@ -10,4 +10,4 @@
 }
 */
 
-nav a.custom-link {display: none !important}
+nav a.custom-link, .gitbook-link {display: none !important}
