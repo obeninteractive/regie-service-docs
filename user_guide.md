@@ -69,19 +69,19 @@ You can install Zoho Mail App on your smartphone for checking your emails on the
 
 **Thunderbird** :
 
-https://www.zoho.com/mail/help/thunderbird-pop-access.html
+[https://www.zoho.com/mail/help/thunderbird-pop](https://www.zoho.com/mail/help/thunderbird-pop-access.html)
 
 **Outlouk** :
 
-https://www.zoho.com/mail/help/outlook-pop-access.html
+[https://www.zoho.com/mail/help/outlook-pop](https://www.zoho.com/mail/help/outlook-pop-access.html)
 
 **Apple Mail** :
 
-https://www.zoho.com/mail/help/mac-pop-access.html
+[https://www.zoho.com/mail/help/mac-pop](https://www.zoho.com/mail/help/mac-pop-access.html)
 
 **General** :
 
-https://www.zoho.com/mail/help/pop-access.html
+[https://www.zoho.com/mail/help/pop-access](https://www.zoho.com/mail/help/pop-access.html)
 
 ### Help Center
 
