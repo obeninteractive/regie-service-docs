@@ -13,4 +13,4 @@ nav {border-top: none !important;}
 
 nav a.custom-link, .gitbook-link {display: none !important}
 
-nav li.chapter > a {font-weight: bold !important}
+nav li.chapter a {font-weight: bold !important}
