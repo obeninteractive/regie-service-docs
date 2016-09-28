@@ -11,4 +11,4 @@
 */
 nav a.custom-link, nav ul.summary li.divider, .gitbook-link {display: none !important}
 
-nav li.chapter a {font-weight: bold;}
+nav li:first-child a {font-weight: bold;}
