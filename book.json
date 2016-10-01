@@ -3,6 +3,9 @@
         "ga": {
             "token": "UA-84378347-1",
             "configuration": "auto"
+        },
+        "sitemap": {
+            "hostname": "https://docs.regie-service.com/"
         }
     },
     "plugins": [
