@@ -1,5 +1,10 @@
 {
-    "pluginsConfig": {},
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-84378347-1",
+            "configuration": "auto"
+        }
+    },
     "plugins": [
         "youtube",
         "ga"
